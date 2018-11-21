@@ -10,11 +10,11 @@
 [Wirte-up](https://satto.hatenadiary.com/entry/TMCTF2018-Write-up)
 
 ### picoCTF 2018
-[General Skills Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-general-skills)
-[Forensics Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-forensics)
-[Web Exploitation Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-web)
-[Cryptography Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-cryptography)
-[Reversing + Binary Exploitation　Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-rev-binary)
+[General Skills Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-general-skills)  
+[Forensics Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-forensics)  
+[Web Exploitation Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-web)  
+[Cryptography Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-cryptography)  
+[Reversing + Binary Exploitation　Wirte-up](https://satto.hatenadiary.com/entry/picoctf-2018-rev-binary)  
 
 ### SECCON 2018
 [Write-up](https://satto.hatenadiary.com/entry/seccon-2018)
