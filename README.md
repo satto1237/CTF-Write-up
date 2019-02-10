@@ -24,3 +24,6 @@
 
 ### InterKosenCTF 2019
 [Write-up](https://satto.hatenadiary.com/entry/InterKosenCTF2019)  
+
+### Saudi and Oman National Cyber Security CTF 2019 Write-up
+[Write-up](https://satto.hatenadiary.com/entry/saudi-oman-ctf-2019)  
