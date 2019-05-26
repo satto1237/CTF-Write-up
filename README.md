@@ -46,6 +46,10 @@
 #### INS'hAck CTF
 [Write-up](https://satto.hatenadiary.com/entry/INSACTF-2019)
 
-#### https://satto.hatenadiary.com/entry/harekazectf-2019
+#### Harekaze CTF
 [Write-up](https://satto.hatenadiary.com/entry/harekazectf-2019)
+
+#### SECCON Beginners CTF 
+[Write-up](https://satto.hatenadiary.com/entry/seccon4b-2019)
+
 
