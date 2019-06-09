@@ -52,4 +52,5 @@
 #### SECCON Beginners CTF 
 [Write-up](https://satto.hatenadiary.com/entry/seccon4b-2019)
 
-
+##### HSCTF 6
+[Write-up](https://satto.hatenadiary.com/entry/hsctf6-writeup)
